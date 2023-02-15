@@ -27,7 +27,7 @@ global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozu
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
-global.email = 'TheZyrenn@gmail.com'
+global.email = 'kumpulanfilm080@gmail.com'
 global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
@@ -40,16 +40,16 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[⫹⫺ - 𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ᎧᏒᏖᎥፚᏰᎧᎩ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'օʀȶɨʐɮօȶ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ᎧᏒᏖᎥፚᏰᎧᎩ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285888826955']
-global.premium = ['6285888826955']
-global.packname = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ'
-global.ownerr = ['𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️']
-global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
+global.owner = ['6281262821428']
+global.premium = ['6281262821428']
+global.packname = 'ᎧᏒᏖᎥፚᏰᎧᎩ'
+global.ownerr = ['ᎧᏒᏖᎥፚᏰᎧᎩ']
+global.author = 'ᎧᏒᏖᎥፚᏰᎧᎩ'
 global.sessionName = './sessionye/paktzy'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
